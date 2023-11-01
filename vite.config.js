@@ -5,6 +5,6 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   build: {
-    base: '/react-simple-cards/',
+    base: 'https://RajputKalpit.gitlab.io/react-simple-cards/',
   },
 })

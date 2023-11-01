@@ -2,11 +2,8 @@
   background-color: #0f172a;
   padding: 30px;
   border-radius: 10px;
-  color: #fff;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  color: #fff
+ 
 }
 
 .card__image{
@@ -21,6 +18,5 @@
 .card__intro{
   font-size: 1rem;
   max-width: 75%;
-  text-align: center;
   margin-top: 20px;
 }

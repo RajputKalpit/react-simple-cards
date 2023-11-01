@@ -11,7 +11,7 @@ let data = [{
   },{
     "id": "3",
     "image" : "https://media.licdn.com/dms/image/D4D03AQG22xUPQNsjbw/profile-displayphoto-shrink_200_200/0/1683609735780?e=2147483647&v=beta&t=s0TW_KjTVv8gVGvcYLZZ_AEs3YBdD00crmYES8G46dY",
-    "name" : "Jenky Panchal",
+    "name" : "Jainil Panchal",
     "intro" : "Jainil Panchal a full stack developer with 5 years of experience"
 }]
 

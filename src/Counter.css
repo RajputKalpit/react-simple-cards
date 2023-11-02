@@ -1,0 +1,14 @@
+.counter{
+    background-color: #0f172a;
+    color: #fff;
+    padding: 2rem;
+}
+.counter__display{
+    font-size: 3rem;
+}
+.counter__increase,.counter__decrease{
+    font-size: 2rem;
+    color: #0f172a;
+    padding: 1.5rem; 
+    background-color: #fff;
+}
